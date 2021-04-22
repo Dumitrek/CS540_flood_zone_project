@@ -1,6 +1,8 @@
 # CS540_flood_zone_project
 Youtube Project video:https://youtu.be/27Hg6B8ZE5o
 
+*Currently can't add sample data to the github as teh complete data is still processing*
+
 CS540 Final project where I take the Volusia County property id/altkey and find the closest flood zone to it along with the difference in distance from said flood zone.
 
 Using the data set:
