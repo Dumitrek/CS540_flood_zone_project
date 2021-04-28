@@ -11,7 +11,7 @@ The solution I found was first to download/install the floodzone .shp file from 
 
 Downloading the data set: *Subject to change*
 
-In order to first download the dataset, you must alreadyhave pgAdmin, a server that you can run it on, and a database already made. To actually download and install it, first you must download the CS540_floodszone_data.zip file and unzip it into the folder of your choice (if you are a CS540 student, you can just unzip it into your CS540 folder). Once unzipped, head into pgAdmin and create
+In order to first download the dataset, you must alreadyhave pgAdmin, a server that you can run it on, and a database already made. To actually download and install it, first you must download the CS540_floodszone_data.zip file and unzip it into the folder of your choice (if you are a CS540 student, you can just unzip it into your CS540 folder). Once unzipped, head into pgAdmin and create two tables
 
 Using the data set: *Subject to change*
 
