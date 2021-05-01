@@ -34,6 +34,8 @@ limit 1;
 
 --adding a colum to the parcel table to measure distance between the parcel from a body of water
 alter table volusia.parcel add column fzdistance double precision;
+alter table volusia.parcel add column fzid text;
+                                                                                            
 
 --moving geometry from the gis_parcels to the parcels table
 SELECT AddGeometryColumn ('volusia','parcel','geom',2236,'MULTIPOLYGON',2);
