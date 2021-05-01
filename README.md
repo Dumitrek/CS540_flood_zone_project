@@ -23,6 +23,6 @@ In order to first download the dataset, you must already have pgAdmin, a server 
 
 This data sets use is to locate or pick a piece of property and check what flood zone the property is located in and how far it reaches said flood zone. This can be used when trying to move to a different location within the county and determining a rough estimate as to whether to obtain flood insurance and how much it can cost depending on how close the property is to a specific flood zone. On how to actually use it within pgAdmin, you first start by downloading the [floodzone_queries.sql file](https://github.com/Dumitrek/CS540_flood_zone_project/blob/main/floodzone_queries.sql) from 
 
-#Step 3: Visual within QGIS *subject to change*
+# Step 3: Visual within QGIS *subject to change*
 
 
