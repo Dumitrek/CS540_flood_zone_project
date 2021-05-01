@@ -3,9 +3,9 @@ Kevin Dumitrescu
 
 For Professor Lehr, ERAU Daytona Beach Spring 2021
 
-Youtube Project video:https://youtu.be/27Hg6B8ZE5o
+[Youtube Project video](https://youtu.be/27Hg6B8ZE5o)
 
-PDF file: https://github.com/Dumitrek/CS540_flood_zone_project/blob/main/CS540%20Project%20Presentation-Kevin%20Dumitrescu.pdf
+[PDF file](https://github.com/Dumitrek/CS540_flood_zone_project/blob/main/CS540%20Project%20Presentation-Kevin%20Dumitrescu.pdf)
 
 # Project problem:  *Subject to change*
 
