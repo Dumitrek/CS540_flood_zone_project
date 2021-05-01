@@ -7,7 +7,7 @@ import csv
 
 # connection to database:
 try:
-    conn = psycopg2.connect("dbname='spatial' user='postgres' host='localhost' password='Zubaz11234'")
+    conn = psycopg2.connect("dbname='spatial' user='postgres' host='localhost' password='XXXX'")
 except:
     print("cant connect to the database")
 
