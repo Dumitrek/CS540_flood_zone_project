@@ -36,7 +36,9 @@ limit 1;
 alter table volusia.parcel add column fzdistance double precision;
 alter table volusia.parcel add column fzid text;
                                                                                             
-
+alter table volusia.sales_analysis add column fzdistance double precision;
+alter table volusia.sales_analysis add column fzid text;
+                                              
 --moving geometry from the gis_parcels to the parcels table
 SELECT AddGeometryColumn ('volusia','parcel','geom',2236,'MULTIPOLYGON',2);
 update volusia.parcel a set geom = p.geom from volusia.gis_parcels p where a.parid=p.altkey;
